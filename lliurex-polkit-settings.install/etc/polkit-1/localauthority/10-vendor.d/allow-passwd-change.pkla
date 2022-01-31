@@ -1,0 +1,4 @@
+[org.freedesktop.accounts.change-own-password]
+Identity=unix-user:*
+Action=org.freedesktop.accounts.change-own-password
+ResultActive=yes
