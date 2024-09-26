@@ -1,3 +1,9 @@
+lliurex-polkit-settings (0.1.25) noble; urgency=medium
+
+  * Initial release for Noble
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 26 Sep 2024 10:33:15 +0200
+
 lliurex-polkit-settings (0.1.23) jammy; urgency=medium
 
   * First jammy release 
