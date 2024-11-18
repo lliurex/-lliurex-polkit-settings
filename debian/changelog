@@ -1,3 +1,9 @@
+lliurex-polkit-settings (0.1.26) noble; urgency=medium
+
+  * Fixed rules file
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 18 Nov 2024 13:26:14 +0100
+
 lliurex-polkit-settings (0.1.25) noble; urgency=medium
 
   * Initial release for Noble
