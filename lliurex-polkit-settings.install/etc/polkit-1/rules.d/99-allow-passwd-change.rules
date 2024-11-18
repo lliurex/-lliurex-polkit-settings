@@ -1,5 +1,9 @@
 polkit.addRule(function(action,subject){
     if (action.id=="org.freedesktop.accounts.change-own-password"){
-        return polkit.Result.YES;
+		if (subject.active == true && subject.local == true){
+			return polkit.Result.YES;
+		}else{
+			return polkit.Result.NO;
+		}
     }
 });
